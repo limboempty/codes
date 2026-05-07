@@ -1,0 +1,8 @@
+array.sh
+data.txt
+first.sh
+function.sh
+loops.sh
+moved.txt
+usershit.sh
+/home/paradox/Desktop/shell
